@@ -1,5 +1,5 @@
 #My Profile
-<p align="center" ><img  src = "https://github.com/Ravindu992/RavinduProfile/blob/main/BlackWhiteandGreenModernTechnologyAnimatedLogo1-ezgif.com-optipng.png" width = 250px></p>
+<p align="center" ><img  src = "BlackWhiteandGreenModernTechnologyAnimatedLogo1-ezgif.com-optipng.png" width = 250px></p>
 <h1 align="center">Hi 👋, I'm Ravindu Devinda</h1>
 <h3 align="center">| `Undergraduate BICT Student | </h3>
 
